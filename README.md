@@ -5,3 +5,4 @@ payload:
   - PROCESS-NAME,com.garena.game.codm
   - PROCESS-NAME,com.tencent.ig
   - PROCESS-NAME,com.mojang.minecraftpe
+  - DOMAIN-SUFFIX,konami.net
