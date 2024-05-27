@@ -5,7 +5,7 @@ payload:
   - DOMAIN-SUFFIX,konami.com
   - DOMAIN-SUFFIX,konami.net
   - DOMAIN-SUFFIX,konamistudio.com
-  - DOMAIN-KEYWORD,konami.net
+  - DOMAIN-KEYWORD,konami
   - DOMAIN-SUFFIX,pesmobilegame.com
   - DOMAIN-SUFFIX,pesmobilegame.net
   - DOMAIN-SUFFIX,pesmobilegame.com.cn
