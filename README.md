@@ -1,5 +1,4 @@
 #Game
-payload:
 DOMAIN-SUFFIX,pes.international
 DOMAIN-SUFFIX,pesmobile.international
 DOMAIN-SUFFIX,konami.com
