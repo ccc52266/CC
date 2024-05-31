@@ -1,0 +1,24 @@
+#Game
+payload:
+  - DOMAIN-SUFFIX,pes.international
+  - DOMAIN-SUFFIX,pesmobile.international
+  - DOMAIN-SUFFIX,konami.com
+  - DOMAIN-SUFFIX,konami.net
+  - DOMAIN-SUFFIX,konamistudio.com
+  - DOMAIN-KEYWORD,konami
+  - DOMAIN-SUFFIX,pesmobilegame.com
+  - DOMAIN-SUFFIX,pesmobilegame.net
+  - DOMAIN-SUFFIX,pesmobilegame.com.cn
+  - DOMAIN-SUFFIX,pesmobilegame.net.cn
+  - DOMAIN-SUFFIX,winningeleven.international
+  - DOMAIN-SUFFIX,winningelevenmobile.international
+  - DOMAIN-SUFFIX,we.international
+  - DOMAIN-SUFFIX,wemobile.international
+  - DOMAIN-SUFFIX,pes.international
+  - DOMAIN-SUFFIX,pesmobile.international
+  - PROCESS-NAME,jp.konami.pesam
+  - PROCESS-NAME,com.activision.callofduty.warzone
+  - PROCESS-NAME,com.garena.game.codm
+  - PROCESS-NAME,com.tencent.ig
+  - PROCESS-NAME,com.mojang.minecraftpe
+  - DOMAIN-KEYWORD,konami
