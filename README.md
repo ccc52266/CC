@@ -1,7 +1,4 @@
-DOMAIN-KEYWORD,PES
-DOMAIN-SUFFIX,konami.com
-DOMAIN-SUFFIX,konami.net
-DOMAIN-SUFFIX,konamistudio.com
+DOMAIN-KEYWORD,PEs
 DOMAIN-KEYWORD,konami
 PROCESS-NAME,jp.konami.pesam
 PROCESS-NAME,com.activision.callofduty.warzone
