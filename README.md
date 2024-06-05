@@ -1,4 +1,4 @@
-DOMAIN-KEYWORD,PEs
+DOMAIN-KEYWORD,PES
 DOMAIN-KEYWORD,konami
 PROCESS-NAME,jp.konami.pesam
 PROCESS-NAME,com.activision.callofduty.warzone
