@@ -1,3 +1,4 @@
+PROCESS-NAME,*Konami*
 DOMAIN-KEYWORD,PES
 DOMAIN-KEYWORD,konami
 PROCESS-NAME,jp.konami.pesam
