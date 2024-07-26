@@ -1,3 +1,4 @@
+DOMAIN-KEYWORD,inmobi
 PROCESS-NAME-REGEX,(?i)peshub
 PROCESS-NAME-REGEX,(?i)excean
 PROCESS-NAME-REGEX,(?i)konami
