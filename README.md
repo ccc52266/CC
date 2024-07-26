@@ -1,5 +1,4 @@
-DOMAIN-KEYWORD,inmobi
-DOMAIN-KEYWORD,config
+DOMAIN-KEYWORD,inmobi.com
 PROCESS-NAME-REGEX,(?i)peshub
 PROCESS-NAME-REGEX,(?i)excean
 PROCESS-NAME-REGEX,(?i)konami
