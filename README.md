@@ -3,6 +3,7 @@ PROCESS-NAME-REGEX,(?i)excean
 PROCESS-NAME-REGEX,(?i)konami
 DOMAIN-KEYWORD,PES
 DOMAIN-KEYWORD,konami
+PROCESS-NAME,com.nova.peshub22
 PROCESS-NAME,jp.konami.pesam
 PROCESS-NAME,com.activision.callofduty.warzone
 PROCESS-NAME,com.garena.game.codm
