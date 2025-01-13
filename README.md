@@ -10,3 +10,5 @@ PROCESS-NAME,com.activision.callofduty.warzone
 PROCESS-NAME,com.garena.game.codm
 PROCESS-NAME,com.tencent.ig
 PROCESS-NAME,com.mojang.minecraft
+PROCESS-NAME-REGEX,(?i)read
+PROCESS-NAME-REGEX,(?i)shuqi
