@@ -12,5 +12,5 @@ PROCESS-NAME,com.tencent.ig
 PROCESS-NAME,com.mojang.minecraft
 PROCESS-NAME-REGEX,(?i)read
 PROCESS-NAME-REGEX,(?i)shuqi
-- PROCESS-NAME,com.dragon.read
-    - PROCESS-NAME,com.shuqi.controller
+PROCESS-NAME,com.dragon.read
+PROCESS-NAME,com.shuqi.controller
