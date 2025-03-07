@@ -3,6 +3,7 @@ PROCESS-NAME-REGEX,(?i)peshub
 PROCESS-NAME-REGEX,(?i)excean
 PROCESS-NAME-REGEX,(?i)konami
 PROCESS-NAME-REGEX,(?i)callofduty
+DOMAIN-SUFFIX,konami.net
 DOMAIN-KEYWORD,efootballhub.net
 DOMAIN-KEYWORD,konami
 PROCESS-NAME,com.nova.peshub22
