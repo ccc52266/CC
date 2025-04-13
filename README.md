@@ -1,4 +1,8 @@
-
+DOMAIN-SUFFIX,ducte5pbkhc9o.cloudfront.net
+DOMAIN-SUFFIX,pes22-game.cs.konami.net
+DOMAIN-SUFFIX,app.adjust.com
+DOMAIN-SUFFIX,firebaselogging.googleapis.com
+DOMAIN-SUFFIX applilink.jp
 DOMAIN-SUFFIX,konami.net
 DOMAIN-SUFFIX,konaminet.jp
 DOMAIN-SUFFIX,konami.com
