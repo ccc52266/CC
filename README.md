@@ -2,6 +2,7 @@ DOMAIN-SUFFIX,googleusercontent,com
 DOMAIN-SUFFIX,ducte5pbkhc9o.cloudfront.net
 DOMAIN-SUFFIX,pes22-game.cs.konami.net
 DOMAIN-SUFFIX,app.adjust.com
+DOMAIN,34.143.187.190
 DOMAIN,54.248.105.235
 DOMAIN-SUFFIX,firebaselogging.googleapis.com
 DOMAIN-SUFFIX applilink.jp
