@@ -5,6 +5,8 @@
         "konami" 
         "pes"
       ],
+   },
+   {
       "package_name": [
         "jp.konami.pesam"
         "com.mojang.minecraft"
