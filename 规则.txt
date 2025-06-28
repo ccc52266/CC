@@ -1,18 +1,17 @@
 {
   "rules": [
-   {
+    {
       "domain_keyword": [
-        "konami" 
-        "pes"
-      ],
-   },
-   {
+        "cn-hk-eq-bcache-"
+      ]
+    },
+    {
       "package_name": [
         "jp.konami.pesam"
         "com.mojang.minecraft"
         "com.nova.peshub22"
       ]
-   }
+    }
   ],
-"version": 1
+  "version": 2
 }
