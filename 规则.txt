@@ -1,0 +1,16 @@
+{
+  "rules": [
+   {
+      "domain_keyword": [
+        "konami" 
+        "pes"
+      ],
+      "package_name": [
+        "jp.konami.pesam"
+        "com.mojang.minecraft"
+        "com.nova.peshub22"
+      ]
+   }
+  ],
+"version": 2
+}
