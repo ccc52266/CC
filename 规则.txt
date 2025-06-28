@@ -2,8 +2,8 @@
   "rules": [
     {
       "package_name": [
-        "jp.konami.pesam"
-        "com.mojang.minecraft"
+        "jp.konami.pesam",
+        "com.mojang.minecraft",
         "com.nova.peshub22"
       ]
     }
