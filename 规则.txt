@@ -1,11 +1,6 @@
 {
   "rules": [
     {
-      "domain_keyword": [
-        "cn-hk-eq-bcache-"
-      ]
-    },
-    {
       "package_name": [
         "jp.konami.pesam"
         "com.mojang.minecraft"
