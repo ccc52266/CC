@@ -1,6 +1,18 @@
 {
   "rules": [
     {
+      "domain-suffix": [
+        "app.adjust.com",
+        "konami.net",
+        "ducte5pbkhc9o.cloudfront.net",
+        "googleusercontent,com",
+        "firebaselogging.googleapis.com",
+        "applilink.jp",
+        "konaminet.jp",
+        "pesdb.net"
+      ]
+    },
+    {
       "package_name": [
         "jp.konami.pesam",
         "com.mojang.minecraft",
@@ -8,5 +20,5 @@
       ]
     }
   ],
-  "version": 2
+  "version": 3
 }
