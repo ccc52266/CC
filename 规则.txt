@@ -1,7 +1,7 @@
 {
   "rules": [
     {
-      "domain-suffix": [
+      "domain_suffix": [
         "app.adjust.com",
         "konami.net",
         "ducte5pbkhc9o.cloudfront.net",
