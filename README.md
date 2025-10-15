@@ -3,8 +3,6 @@ DOMAIN-SUFFIX,googleusercontent,com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,pes22-game.cs.konami.net
 DOMAIN-SUFFIX,app.adjust.com
-IP-CIDR,34.143.187.190/32
-IP-CIDR,54.248.105.235/32
 DOMAIN-SUFFIX,firebaselogging.googleapis.com
 DOMAIN-SUFFIX applilink.jp
 DOMAIN-SUFFIX,konaminet.jp
