@@ -1,4 +1,5 @@
 DOMAIN-KEYWORD,konamistudio
+DOMAIN-SUFFIX,nabeshin.people.aws.dev
 DOMAIN-SUFFIX,googleusercontent,com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,pes22-game.cs.konami.net
