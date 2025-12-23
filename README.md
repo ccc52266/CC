@@ -1,4 +1,10 @@
 DOMAIN-KEYWORD,konamistudio
+DOMAIN-KEYWORD,konami
+DOMAIN-KEYWORD,konamistudio
+DOMAIN-KEYWORD,pes
+DOMAIN-KEYWORD,applilink
+DOMAIN-KEYWORD,bc.googleusercontent.com
+DOMAIN-KEYWORD,cloudfront.net
 DOMAIN-SUFFIX,nabeshin.people.aws.dev
 DOMAIN-SUFFIX,googleusercontent,com
 DOMAIN-SUFFIX,cloudfront.net
@@ -11,15 +17,4 @@ DOMAIN-SUFFIX,pes.konami.net
 DOMAIN-SUFFIX,pesdb.net
 DOMAIN-SUFFIX,efootballhub.net
 DOMAIN-KEYWORD,konami
-PROCESS-NAME-REGEX,(?i)fifamobile
-PROCESS-NAME-REGEX,(?i)peshub
-PROCESS-NAME-REGEX,(?i)excean
-PROCESS-NAME-REGEX,(?i)konami
-PROCESS-NAME-REGEX,(?i)callofduty
-PROCESS-NAME,com.nova.peshub22
-PROCESS-NAME,jp.konami.pesam
-PROCESS-NAME,com.activision.callofduty.warzone
-PROCESS-NAME,com.garena.game.codm
-PROCESS-NAME,com.tencent.ig
-PROCESS-NAME,com.mojang.minecraft
 
